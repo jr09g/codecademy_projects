@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 1C32-A5CB
+
+ Directory of C:\codecademy\codecademy_projects
+
+05/10/2015  01:19 PM    <DIR>          .
+05/10/2015  01:19 PM    <DIR>          ..
+05/10/2015  01:11 PM               367 hello_world_again.txt
+05/10/2015  01:19 PM                 0 testfile.txt
+               2 File(s)            367 bytes
+               2 Dir(s)  620,666,138,624 bytes free
